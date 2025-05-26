@@ -49,8 +49,8 @@ studentrecord/
 ## Screenshots
 
 ### Student List Page
-![Student List](screenshots/student_list.png)
-
+![Student List]
+<img src="https://github.com/DileepBale/student-record/blob/33eb7fdd4d0078cd0e751d2c3914415ed48ec528/studentrecord/screenshots/student_list.png" width="600" />
 ### Add New Student Page
 ![Add Student]
 <img src="https://github.com/DileepBale/student-record/blob/ba98bae904c2dfa5ebca862d0c3148dffc6cb89e/studentrecord/screenshots/student_create.png" width="600" />
