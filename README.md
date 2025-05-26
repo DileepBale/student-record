@@ -46,3 +46,10 @@ studentrecord/
 │ ├── student_update.html
 │ └── student_delete.html
 └── db.sqlite3
+## Screenshots
+
+### Student List Page
+![Student List](screenshots/student_list.png)
+
+### Add New Student Page
+![Add Student](screenshots/student_create.png)
